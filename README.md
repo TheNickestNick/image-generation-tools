@@ -5,3 +5,6 @@
 
 ## Generate_Images_with_Stable_Diffusion.ipynb
 Notebook for generating image samples using Stable Diffusion from text prompts.
+
+## Interpolated_Videos_with_Stable_Diffusion.ipynb
+Notebook for generating videos interpolated between prompts using Stable Diffusion.
